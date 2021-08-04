@@ -83,7 +83,7 @@
 .description{
   display: flex;
   justify-content: center;
-  margin: 100px 0;
+  margin-top: 100px;
 }
 
 .two_columns{
@@ -114,6 +114,52 @@
 
 .two-columns__paragraph_span{
   font-weight: bold;
+}
+
+.digits{
+  margin: 100px 0;
+}
+
+.section-title{
+  text-align: center;
+  width: 60%;
+  margin: 100px auto 20px;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.section-subtitle{
+  margin: 0 auto;
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.table{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 1100px;
+  margin: 0 auto 100px;
+}
+
+.table__cell{
+  width: 250px;
+  /*border: 1px #2f80ed solid;*/
+}
+
+.table__heading{
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__text{
+  line-height: 1.2;
+  font-size: 18px;
 }
 
 .table__cell_theme_dark {
