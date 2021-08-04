@@ -273,10 +273,6 @@
 
 }
 
-.logo_place_footer{
-  width: 183px;
-  height: 35px;
-}
 
 .footer__column_content-copyright{
   display: flex;
@@ -286,6 +282,8 @@
 }
 
 .logo_place_footer{
+  width: 183px;
+  height: 35px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
