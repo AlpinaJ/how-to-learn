@@ -129,7 +129,7 @@
   margin-bottom: 0;
 }
 
-.span-accent{
+.two-columns__span-accent{
   font-weight: bold;
 }
 
@@ -240,7 +240,7 @@
   flex-direction: column;
   background-color: #1f1f1f;
   margin: 0;
-  padding-bottom: 90px;
+  /*padding-bottom: 90px;*/
   position: relative;
   overflow: hidden;
 }
@@ -264,6 +264,13 @@
   text-align: center;
   color: white;
   z-index: 2;
+}
+
+.table_theme_dark{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 auto 90px;
 }
 
 .table__cell_theme_dark {
