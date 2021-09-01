@@ -1,0 +1,11 @@
+.two-columns__brief{
+  display: flex;
+  justify-content: space-between;
+  width: 175px;
+  color: #2f80ed;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  /*border: 1px #235432 solid;*/
+  margin-top: 0;
+}
