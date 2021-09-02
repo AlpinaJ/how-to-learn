@@ -10,4 +10,5 @@
 
 .header__square-pic:hover {
   animation: rotation 20s linear infinite;
+  /*background-color: blueviolet;*/
 }
